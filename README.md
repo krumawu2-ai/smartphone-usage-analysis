@@ -153,6 +153,8 @@ These visualizations helped confirm the lack of strong relationships between sma
 ---
 
 ## Project Structure
+
+```
 smartphone-productivity-analysis
 │
 ├── data
@@ -168,6 +170,7 @@ smartphone-productivity-analysis
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
